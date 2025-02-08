@@ -1,6 +1,6 @@
 ## Clash Meta for Android
 
-A Graphical user interface of [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) for Android 从其他仓库克隆
+A Graphical user interface of [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) for Android 从其他仓库克隆的备份版本（Backup versions cloned from other repositories）
 
 ### Feature
 
